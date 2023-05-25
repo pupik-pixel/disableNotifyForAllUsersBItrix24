@@ -1,0 +1,1 @@
+# disableNotifyForAllUsersBItrix24
